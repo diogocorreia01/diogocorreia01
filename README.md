@@ -24,4 +24,4 @@ I am Diogo Correia, a **Junior Developer** based out of Portugal. Having 1~2 yea
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=diogocorreia01.diogocorreia01)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=diogocorreia01.visitor-badge)
