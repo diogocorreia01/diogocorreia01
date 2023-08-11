@@ -18,3 +18,10 @@ I am Diogo Correia, a **Junior Developer** based out of Portugal. Having 1~2 yea
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
