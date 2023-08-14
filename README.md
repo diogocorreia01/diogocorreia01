@@ -22,6 +22,6 @@ I am Diogo Correia, a **Junior Developer** based out of Portugal. Having 1~2 yea
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=diogocorreia01&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocorreia01&hide=TeX&layout=compact&theme=prussian))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocorreia01&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=diogocorreia01.diogocorreia01)
